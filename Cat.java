@@ -5,6 +5,6 @@ public class Cat extends Animal //inherit from the class Animal.
 		c=name;
 	}
 public void introduceYourself() {
-	System.out.println("Meow. I am a cat. My name is"+ c);
+	System.out.println("Meow. I am a cat. My name is"+ c +".");
 }
 }
